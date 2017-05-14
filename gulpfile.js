@@ -3,6 +3,6 @@ const ghPages = require('gulp-gh-pages');
 
 gulp.task('ghpages', () => {
 		return gulp
-				.src('./src/**.*')
+				.src('./src/**/*.*')
 				.pipe(ghPages())
 })
