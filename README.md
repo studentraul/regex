@@ -10,7 +10,7 @@ Repositório com foco em fazer anotações e resenhas sobre o [Curso online de E
 ## Lista com as expressões
 
 | caracter      | Tipo                      | Significado                                                                   | Metachar  |
-| :---:         | ---                       | ---                                                                           | :---:     | 
+| :---:         | :---:                       | ---                                                                           | :---:     | 
 | \d            | _**Classe de caracter**_  | Dígitos de 0-9                                                                | Não       |
 | \w            | _**Classe de caracter**_  | Alfanumérico, ou seja, [A-Za-z0-9_]                                           | Sim       |                     | Não       |
 | \s            | _**Classe de caracter**_  | O caracter pode qualquer espaço em branco (tab, space, etc)                   | sim       |
@@ -35,5 +35,6 @@ Repositório com foco em fazer anotações e resenhas sobre o [Curso online de E
 - [Aula 1. Começando com Regex](aulas/1/comecando-com-regex.md)
 - [Aula 2. Classes de Caracter](aulas/2/classes-de-caracter.md)
 - [Aula 3. Âncoras](aulas/3/ancoras.md)
-- [Aula 3. Trabalhando com GRUPOS](aulas/4/grupos.md)
+- [Aula 4. Trabalhando com GRUPOS](aulas/4/grupos.md)
+    - [Desafio Correios](aulas/4/desafio.md)
 
