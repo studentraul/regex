@@ -26,9 +26,10 @@ Repositório com foco em fazer anotações e resenhas sobre o [Curso online de E
 | \b            | _**Âncora**_              | Define um range de posição EXCLUINDO palavras que comecem ou terminem com \w  | sim       |
 | \B            | _**Âncora**_              | Define um range de posição INCLUINDO palavras que comecem ou terminem com \w  | sim       |
 
+## Aulas
 
-[Aula 1. Começando com Regex](aulas/1/comecando-com-regex.md)
-[Aula 2. Classes de Caracter](aulas/2/classes-de-caracter.md)
-[Aula 3. Âncoras](aulas/3/ancoras.md)
-[Aula 3. Trabalhando com GRUPOS](aulas/4/grupos.md)
+- [Aula 1. Começando com Regex](aulas/1/comecando-com-regex.md)
+- [Aula 2. Classes de Caracter](aulas/2/classes-de-caracter.md)
+- [Aula 3. Âncoras](aulas/3/ancoras.md)
+- [Aula 3. Trabalhando com GRUPOS](aulas/4/grupos.md)
 
