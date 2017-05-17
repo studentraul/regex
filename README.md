@@ -30,4 +30,5 @@ Repositório com foco em fazer anotações e resenhas sobre o [Curso online de E
 [Aula 1. Começando com Regex](aulas/1/comecando-com-regex.md)
 [Aula 2. Classes de Caracter](aulas/2/classes-de-caracter.md)
 [Aula 3. Âncoras](aulas/3/ancoras.md)
+[Aula 3. Trabalhando com GRUPOS](aulas/4/grupos.md)
 
