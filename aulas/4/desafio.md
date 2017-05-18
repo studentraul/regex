@@ -9,3 +9,16 @@ Romulo Henrique|14/06/1993|Rua do Lins|120|12345-322|Rio de Janeiro
 Leonardo Cordeiro|01/01/1995|Rua de Campo Grande|01|00001-234|Rio de Janeiro
 ```
 Tente montar uma regex que realize esse trabalho e ajude os correios!
+
+Resposta:
+```
+nome:               ([\w\s]+)\|
+Data de nascimento: (?:[1-3]?\d\/[01][0-9]\/[12]\d{3})\|
+endereço:           ([\w\s]+)\|
+numero:             (\d{1,4})\|
+cep:                (\d{5}-?\d{3})\|
+Cidade:             (?:[\w\s]+)
+
+Resultado: ([\w\s]+)\|(?:[1-3]?\d\/[01][0-9]\/[12]\d{3})\|([\w\s]+)\|(\d{1,4})\|(\d{5}-?\d{3})\|(?:[\w\s]+)
+
+```
