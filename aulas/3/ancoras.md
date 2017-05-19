@@ -1,4 +1,5 @@
 # Encontrando a posição certa com âncoras
+[<-- Voltar](/README.md)
 
 ## Âncoras
 > Âncoras marcam uma posição específica no alvo
@@ -53,5 +54,5 @@ Queremos validar essa linha inteira. Assim, a regra será: começa com `file` e 
 
 ```javascript
 var texto = 'file:///Users/nico/Downloads/regex/index.html';
-var regex = ^file.+$\.html
+var regex = /^file.+\.html$/
 ```

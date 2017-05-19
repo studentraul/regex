@@ -1,4 +1,5 @@
-# Expressões gananciosas ou pregriçosas
+# Expressões gananciosas ou pregriçosas]
+[<-- Voltar](/README.md)
 
 Os **quantifiers** por padrão são `greedy` (gananciosos), ou seja, quando você define um deles, ele não para no primeiro caso que encontra, ou seja, ele vai até não encontrar mais evidências. 
 

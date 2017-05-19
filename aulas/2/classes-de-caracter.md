@@ -1,4 +1,6 @@
 # Classe de Caracteres
+[<-- Voltar](/README.md)
+
 Classe de caracteres são classes que definimos quais os caracteres que podem aparecer em determinada posição.
 
 Seu uso é feito através de colchetes `[]`. Quando utilizamos classe de caracteres, não precisamos mais ESCAPAR (`usar barra \`) da expressão, ou seja, um metachar dentro da classe, será avaliado como seu valor literal, exemplo:
