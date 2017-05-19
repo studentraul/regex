@@ -1,5 +1,5 @@
 # Regex em Javascript
-[<-- Voltar](/readme.md)
+[<-- Voltar](/README.md)
 
 Há duas formas de se declarar uma Expressão Regular em Javascript.
 
