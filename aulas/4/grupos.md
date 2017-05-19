@@ -47,3 +47,7 @@ Agora, teremos como resultado:
 ```
 
 Isso pode ser **EXTREMAMENTE** útil!
+
+[Desafio](aulas/4/desafio.md)
+
+[Aula 5 - Expressões gananciosas ou pregriçosas -->](aulas/5/ganancioso-ou-preguicoso.md)

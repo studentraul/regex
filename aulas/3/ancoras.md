@@ -56,3 +56,5 @@ Queremos validar essa linha inteira. Assim, a regra será: começa com `file` e 
 var texto = 'file:///Users/nico/Downloads/regex/index.html';
 var regex = /^file.+\.html$/
 ```
+
+[Aula 4 - Trabalhando com Grupos -->](aulas/4/grupos.md)
