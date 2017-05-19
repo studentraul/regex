@@ -2,6 +2,14 @@
 
 Repositório com foco em fazer anotações e resenhas sobre o [Curso online de Expressões regulares: Capturando textos de forma mágica](https://www.alura.com.br/curso-online-expressoes-regulares)
 
+## Aulas
+- [Aula 1. Começando com Regex](aulas/1/comecando-com-regex.md)
+- [Aula 2. Classes de Caracter](aulas/2/classes-de-caracter.md)
+- [Aula 3. Âncoras](aulas/3/ancoras.md)
+- [Aula 4. Trabalhando com GRUPOS](aulas/4/grupos.md)
+    - [Desafio Correios](aulas/4/desafio.md)
+- [Aula 5. Greedys e backreferences](aulas/5/ganacioso-ou-preguicoso.md)
+- [Aula 6. RegEx no Javascript](aulas/6/javascript.md)
 
 ## Ferramentas
 - [PROJETO ONLINE](https://studentraul.github.io/regex/)
@@ -35,12 +43,3 @@ Repositório com foco em fazer anotações e resenhas sobre o [Curso online de E
 | ^ minha\_regex $  | _**Âncora**_              | Define um range, só trará resultados quando a Regex começar e terminar daquela maneira    | sim       |
 
 
-## Aulas
-
-- [Aula 1. Começando com Regex](aulas/1/comecando-com-regex.md)
-- [Aula 2. Classes de Caracter](aulas/2/classes-de-caracter.md)
-- [Aula 3. Âncoras](aulas/3/ancoras.md)
-- [Aula 4. Trabalhando com GRUPOS](aulas/4/grupos.md)
-    - [Desafio Correios](aulas/4/desafio.md)
-- [Aula 5. Greedys e backreferences](aulas/5/ganacioso-ou-preguicoso.md)
-- [Aula 6. RegEx no Javascript](aulas/6/javascript.md)
