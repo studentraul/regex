@@ -2,7 +2,11 @@
 
 Repositório com foco em fazer anotações e resenhas sobre o [Curso online de Expressões regulares: Capturando textos de forma mágica](https://www.alura.com.br/curso-online-expressoes-regulares)
 
-> [PROJETO ONLINE](https://studentraul.github.io/regex/)
+
+## Ferramentas
+- [PROJETO ONLINE](https://studentraul.github.io/regex/)
+- [https://regex101.com/](https://regex101.com/)
+- [http://regexr.com/](http://regexr.com/)
 
 ## Anotações pessoais
 [Rascunhos e ideias](aulas/anotacoes.md)

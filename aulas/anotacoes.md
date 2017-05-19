@@ -14,3 +14,5 @@ No <code>for</code>, o valor de <code>i</code> começa de zero e é incrementado
 - Tags HTML: `<h1[^>]+>` (pegue toda correspondência de h1(`<h1`), qualquer coisa que não seja um sinal de maior (`[^>]`), que possa ocorrer uma ou mais vezes (`+`) até encontrar o sinal de maior (`>`))
 
 - Além de âncora, o `^` pode ser usado para negação: `[\w]` (tudo que for word char) - `[^\w]`, tudo que **NÃO FOR** word char. Obs.: vale dentro de um grupo (`[]`)
+
+- Dentro de um grupo de caracter, se tiver um hífe (`-`) entre dois outros caracteres, ele vai ser avaliado como RANGE. Caso não seja esse o propósito, será necessário escapa-lo: `[;-,] //Erro __________ [;\\-,] //Sucesso
