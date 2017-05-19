@@ -25,4 +25,4 @@ const regex = /[0123456789]/;
 const regex = /[0-9]/;
 ```
 
-[Aula 3 - Âncoras -->](aulas/3/ancoras.md)
+[Aula 3 - Âncoras -->](/aulas/3/ancoras.md)

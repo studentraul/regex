@@ -51,4 +51,4 @@ Regex: <(h1|h2)>[\w\s]+</\1>
 
 Com isso, referenciamos que o resultado do primeiro grupo (`(h1|h2)`)), deverá ser aplicado também em `</\1>`, ou seja, se for for `h1`, coloca `h1` na referência, se for `h2`, coloque `h2`.
 
-[Aula 6 - Regex em Javascript -->](aulas/6/ganancioso-ou-preguicoso.md)
+[Aula 6 - Regex em Javascript -->](/aulas/6/ganancioso-ou-preguicoso.md)

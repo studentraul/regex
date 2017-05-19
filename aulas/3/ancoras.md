@@ -57,4 +57,4 @@ var texto = 'file:///Users/nico/Downloads/regex/index.html';
 var regex = /^file.+\.html$/
 ```
 
-[Aula 4 - Trabalhando com Grupos -->](aulas/4/grupos.md)
+[Aula 4 - Trabalhando com Grupos -->](/aulas/4/grupos.md)
