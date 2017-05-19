@@ -17,4 +17,4 @@ A avaliação de um texto feito com expressão regular, necessita de uma engine 
 ![Imgur](http://i.imgur.com/PJqicpC.png)
 
 
-[Aula 2 - Classe de Caracteres -->](aulas/2/classes-de-caracter.md)
+[Aula 2 - Classe de Caracteres -->](/aulas/2/classes-de-caracter.md)
