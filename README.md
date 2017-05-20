@@ -8,7 +8,7 @@ Repositório com foco em fazer anotações e resenhas sobre o [Curso online de E
 - [Aula 3. Âncoras](aulas/3/ancoras.md)
 - [Aula 4. Trabalhando com GRUPOS](aulas/4/grupos.md)
     - [Desafio Correios](aulas/4/desafio.md)
-- [Aula 5. Greedys e backreferences](aulas/5/ganacioso-ou-preguicoso.md)
+- [Aula 5. Greedys e backreferences](aulas/5/ganancioso-ou-preguicoso.md)
 - [Aula 6. RegEx no Javascript](aulas/6/javascript.md)
 
 ## Ferramentas
